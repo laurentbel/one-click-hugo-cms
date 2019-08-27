@@ -1,6 +1,6 @@
 ---
 title: Hakim Rouatbi
-subtitle: Support sustainable coding
+subtitle: Support sustainable coding !
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
